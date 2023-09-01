@@ -1,3 +1,4 @@
+#Codigo feito por Breno Monteiro e Joao Vitor Manfrim
 #Lê a quantidade de operações a ser realizada
 with open('arquivo.txt', 'r') as file:
     nLeituras = int(file.readline().strip())
